@@ -6,15 +6,10 @@
     display: none;
   }
 }
-/* @media screen and (min-width:367px) and (max-width:575px) {
-    header{
-        background-color: aqua;
-    }
-    /* .mobile{
-     display: flex;
-    } */
-/* } */ 
 
 .repo_image{
   width: 110px;
+}
+.icon{
+  color: white;
 }
